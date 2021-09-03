@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://icdn.dantri.com.vn/thumb_w/640/2019/03/06/nhiepanhgia-2-1551849137024.jpg) repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background:rgba(0,0,0,0.4);
+    padding:20px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    font-family: Tahoma;
+    color:rgb(239, 247, 255);
+}
+.box-img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 10px;;
+
+}
+.box h1{
+    font-size: 30px;
+    color: rgb(239, 247, 255);    
+}
+.box h5{
+    font-size: 20px;
+}
+.row1{
+    width: 1000px;
+    background: black;
+    color:white;
+}
+.row1 ul{
+    display: flex;
+    padding: 0px;
+    list-style-type: none;
+    margin: auto;
+}

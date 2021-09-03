@@ -1,0 +1,21 @@
+body{
+    font-family: Roboto;
+    background: #373B44;
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);
+    background: linear-gradient(to right, #4286f4, #373B44);
+  
+ background-image: url("https://cdnmedia.thethaovanhoa.vn/Upload/B0g2ZnIe48e9au7dkcAV3w/files/000039/0000000000000000000211/00000262/00026/0019/001/009/03/7/Dang%20Braithwaite%20hoi%20sinh%20Barcelona.jpg");
+ 
+ background-color: #cccccc;
+
+}
+#maytinh{
+    width: 320px;
+    height: 520px;
+    background-color:#eaedef ;
+    top: 20px;
+    margin: auto;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
